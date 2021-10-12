@@ -11,6 +11,8 @@ UNI : ur2136
 
 S3 Bucket URL : http://jk4534ur2136.s3-website-us-east-1.amazonaws.com/
 
+COMPONENTS:
+
 Lambdas : 
 
 LF0 - This uses the request-response model defined in the Swagger API Specification to perform the chat operation with the lex bot.
@@ -22,3 +24,7 @@ LF2 - This is used to fetch data from the SQS queue Q1, gets 3 random restaurant
 CloudWatchTrigger : 
 
 [name-of-trigger] - It runs every minute and invokes LF2 as a result.
+
+SQS QUEUE : 
+
+Q1 - Based on the parameters collected from the user, we push information collected from user (location, cuisine, noOfPeople, dateofreservation, timeofreservation, emailaddress) to this queue.
