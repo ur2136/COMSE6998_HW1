@@ -53,9 +53,11 @@ SQS QUEUE :
 
 Q1 - Based on the parameters collected from the user, we push information collected from user (location, cuisine, noOfPeople, dateofreservation, timeofreservation, emailaddress) to this queue.
 
+The parameters are then polled out from this queue for querying our dynamodb table, elastic search and composing the email to be sent to the user.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 SES Service :
 
-[name-of-notification] - 
+The email with three restaurant recommendations with their addresses will be sent to the user email id, SUBJECT to email address verification due to sandbox limitations.
 
 
