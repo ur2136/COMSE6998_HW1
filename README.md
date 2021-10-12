@@ -28,3 +28,7 @@ CloudWatchTrigger :
 SQS QUEUE : 
 
 Q1 - Based on the parameters collected from the user, we push information collected from user (location, cuisine, noOfPeople, dateofreservation, timeofreservation, emailaddress) to this queue.
+
+SES Service :
+
+[name-of-notification] - 
