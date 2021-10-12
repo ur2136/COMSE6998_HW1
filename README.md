@@ -1,13 +1,11 @@
 # COMSE6998_HW1
 HW1 : Dining Concierge AI Agent
 
-Name : Katie Jooyoung Kim
+BY
 
-UNI : jk4534
+Name : Katie Jooyoung Kim, UNI : jk4534
 
-Name : Umang Raj
-
-UNI : ur2136
+Name : Umang Raj, UNI : ur2136
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
