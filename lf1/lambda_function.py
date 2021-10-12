@@ -194,7 +194,7 @@ def validate_book_reservation(intent_request):
         return build_validation_result(
             False,
             'cuisine',
-            'I did not recognize that cuisine.  What cuisine would you like to try?')
+            'I do not recognize that cuisine.  What cuisine would you like to try?')
            
     if noOfPeople and not isvalid_nopeople(noOfPeople):
         return build_validation_result(
@@ -207,14 +207,14 @@ def validate_book_reservation(intent_request):
         return build_validation_result(
             False,
             'dateofReservation',
-            'I did not understand your reservation date.  What date would you like to make your reservation on?'
+            'The registration date is in the past.  What date would you like to make your reservation on?'
         )
 
     if timeofReservation and not isvalid_time(timeofReservation, dateofReservation):
         return build_validation_result(
             False,
             'timeofReservation',
-            'I did not understand your reservation time.  When would you like to make your reservation?'
+            'The registration time is in the past.  When would you like to make your reservation?'
         )
    
     if emailaddress and not isvalid_email(emailaddress):
