@@ -85,9 +85,8 @@ DiningConcierge - It has 3 intents :
 
 Based on user input from U/I the handler for each intent is invoked.
 
-------------------
 
-GreetingIntent :
+1. GreetingIntent :
 
 Utterances - hi, hello, hey
 
@@ -99,8 +98,7 @@ Fulfillment - LF1
 
 Response from LF1 - Hi there, how can I help?
 
--------------------
-DiningSuggestionsIntent :
+2. DiningSuggestionsIntent :
 
 Utterances - food, restaurant, restaurants
 
@@ -112,8 +110,7 @@ Fulfillment - LF1
 
 Response from LF1 - Based on slot input.
 
----------------------
-ThankYouIntent :
+3. ThankYouIntent :
 
 Utterances - thank you, thanks, thank
 
