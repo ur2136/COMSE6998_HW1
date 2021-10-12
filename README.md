@@ -60,4 +60,69 @@ SES Service :
 
 The email with three restaurant recommendations with their addresses will be sent to the user email id, SUBJECT to email address verification due to sandbox limitations.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DynamoDB :
+
+TBA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Elastic Search : 
+
+TBA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+API Gateway : 
+
+TBA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Lex : 
+
+DiningConcierge - It has 3 intents :
+1. GreetingIntent
+2. DiningSuggestionsIntent
+3. ThankYouIntent
+
+Based on user input from U/I the handler for each intent is invoked.
+
+------------------
+
+GreetingIntent :
+
+Utterances - hi, hello, hey
+
+Slots - None
+
+Initialization and Validation Code Hook - None
+
+Fulfillment - LF1
+
+Response from LF1 - Hi there, how can I help?
+
+-------------------
+DiningSuggestionsIntent :
+
+Utterances - food, restaurant, restaurants
+
+Slots - location (AMAZON.US_CITY), cuisine (AMAZON.AlphaNumeric), noOfPeople (AMAZON.NUMBER), dateofReservation (AMAZON.DATE), timeofReservation (AMAZON.TIME), emailaddress (AMAZON.EmailAddress)
+
+Initialization and Validation Code Hook - LF1
+
+Fulfillment - LF1
+
+Response from LF1 - Based on slot input.
+
+---------------------
+ThankYouIntent :
+
+Utterances - thank you, thanks, thank
+
+Slots - None
+
+Initialization and Validation Code Hook - None
+
+Fulfillment - LF1
+
+Response from LF1 - You're welcome.
+
 
