@@ -1,0 +1,50 @@
+{"index": {"_index": "restaurants", "_id": "Xqm8Ywu-9bBxbMypocVx8g"}}
+{"cuisine": [{"alias": "pizza", "title": "Pizza"}, {"alias": "salad", "title": "Salad"}, {"alias": "vegan", "title": "Vegan"}]}
+{"index": {"_index": "restaurants", "_id": "ggxuLGEkOM_yGhMvPjCteA"}}
+{"cuisine": [{"alias": "cafes", "title": "Cafes"}, {"alias": "breakfast_brunch", "title": "Breakfast & Brunch"}, {"alias": "australian", "title": "Australian"}]}
+{"index": {"_index": "restaurants", "_id": "haXWjwWpxrM5h_JnxKuaNA"}}
+{"cuisine": [{"alias": "gelato", "title": "Gelato"}]}
+{"index": {"_index": "restaurants", "_id": "oJ_XSPZFpvIt6rvheSQl7A"}}
+{"cuisine": [{"alias": "pizza", "title": "Pizza"}, {"alias": "italian", "title": "Italian"}]}
+{"index": {"_index": "restaurants", "_id": "euqvuleuiGyMffTR23eeYg"}}
+{"cuisine": [{"alias": "egyptian", "title": "Egyptian"}, {"alias": "falafel", "title": "Falafel"}, {"alias": "vegan", "title": "Vegan"}]}
+{"index": {"_index": "restaurants", "_id": "pI9v4FgtiTa41xduePLtRw"}}
+{"cuisine": [{"alias": "vegan", "title": "Vegan"}, {"alias": "popuprestaurants", "title": "Pop-Up Restaurants"}]}
+{"index": {"_index": "restaurants", "_id": "AtPlNbHfiDrJrY_nUVoByA"}}
+{"cuisine": [{"alias": "pizza", "title": "Pizza"}, {"alias": "vegan", "title": "Vegan"}]}
+{"index": {"_index": "restaurants", "_id": "Th9rQGHSR1C96tMa7kQN5A"}}
+{"cuisine": [{"alias": "cocktailbars", "title": "Cocktail Bars"}, {"alias": "vegan", "title": "Vegan"}, {"alias": "gluten_free", "title": "Gluten-Free"}]}
+{"index": {"_index": "restaurants", "_id": "2pHtrd6P0Z20umI7rdQdSg"}}
+{"cuisine": [{"alias": "desserts", "title": "Desserts"}, {"alias": "icecream", "title": "Ice Cream & Frozen Yogurt"}, {"alias": "vegan", "title": "Vegan"}]}
+{"index": {"_index": "restaurants", "_id": "p5vjmtsAhklqAAA4qpo1bQ"}}
+{"cuisine": [{"alias": "burgers", "title": "Burgers"}, {"alias": "vegetarian", "title": "Vegetarian"}, {"alias": "vegan", "title": "Vegan"}]}
+{"index": {"_index": "restaurants", "_id": "IqdKtoVMCbmEedWCEux5AA"}}
+{"cuisine": [{"alias": "fooddeliveryservices", "title": "Food Delivery Services"}, {"alias": "vegan", "title": "Vegan"}]}
+{"index": {"_index": "restaurants", "_id": "EBK0OkVMBg_n_KxAU_4DZg"}}
+{"cuisine": [{"alias": "pizza", "title": "Pizza"}, {"alias": "italian", "title": "Italian"}]}
+{"index": {"_index": "restaurants", "_id": "sRH-6ZY0gDbS4DhfUZU6zw"}}
+{"cuisine": [{"alias": "wine_bars", "title": "Wine Bars"}, {"alias": "italian", "title": "Italian"}, {"alias": "vegan", "title": "Vegan"}]}
+{"index": {"_index": "restaurants", "_id": "yXeB1M8VZxTE1EPRH6SaXw"}}
+{"cuisine": [{"alias": "indonesian", "title": "Indonesian"}, {"alias": "desserts", "title": "Desserts"}]}
+{"index": {"_index": "restaurants", "_id": "AfQ7Jimg2VKefi1HyAPUsw"}}
+{"cuisine": [{"alias": "vegan", "title": "Vegan"}, {"alias": "bakeries", "title": "Bakeries"}]}
+{"index": {"_index": "restaurants", "_id": "qauE0RX0J519WJw1zjI3VQ"}}
+{"cuisine": [{"alias": "coffee", "title": "Coffee & Tea"}, {"alias": "wine_bars", "title": "Wine Bars"}]}
+{"index": {"_index": "restaurants", "_id": "YvAeVNrMQGim9VTkilwUgA"}}
+{"cuisine": [{"alias": "chinese", "title": "Chinese"}, {"alias": "vegetarian", "title": "Vegetarian"}, {"alias": "asianfusion", "title": "Asian Fusion"}]}
+{"index": {"_index": "restaurants", "_id": "HokS8DZ_wy1MSAsm8kxzcA"}}
+{"cuisine": [{"alias": "pizza", "title": "Pizza"}, {"alias": "vegan", "title": "Vegan"}, {"alias": "vegetarian", "title": "Vegetarian"}]}
+{"index": {"_index": "restaurants", "_id": "B1XdGwZZ5ee2fBdngj7NUw"}}
+{"cuisine": [{"alias": "pizza", "title": "Pizza"}, {"alias": "italian", "title": "Italian"}]}
+{"index": {"_index": "restaurants", "_id": "pFrxezxzly8wqSJPIG7Ptw"}}
+{"cuisine": [{"alias": "burgers", "title": "Burgers"}, {"alias": "vegetarian", "title": "Vegetarian"}]}
+{"index": {"_index": "restaurants", "_id": "wJ-MPdFSPUoChucj-r6YxA"}}
+{"cuisine": [{"alias": "newamerican", "title": "American (New)"}]}
+{"index": {"_index": "restaurants", "_id": "L5eqJRy8Yx_4El6rUxWmBw"}}
+{"cuisine": [{"alias": "mexican", "title": "Mexican"}, {"alias": "salad", "title": "Salad"}, {"alias": "breakfast_brunch", "title": "Breakfast & Brunch"}]}
+{"index": {"_index": "restaurants", "_id": "3cC6UcOj_-FMXRBYlsXFzA"}}
+{"cuisine": [{"alias": "breakfast_brunch", "title": "Breakfast & Brunch"}, {"alias": "cafes", "title": "Cafes"}, {"alias": "newamerican", "title": "American (New)"}]}
+{"index": {"_index": "restaurants", "_id": "0LpWRWQx8Agm-mZtsOQ5gg"}}
+{"cuisine": [{"alias": "pizza", "title": "Pizza"}, {"alias": "italian", "title": "Italian"}]}
+{"index": {"_index": "restaurants", "_id": "fe1qejuUaK2iITBvogLoaQ"}}
+{"cuisine": [{"alias": "juicebars", "title": "Juice Bars & Smoothies"}, {"alias": "acaibowls", "title": "Acai Bowls"}]}
